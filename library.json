@@ -1,6 +1,6 @@
 {
   "name": "Switch_panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Object to manage multiple mqtt switches",
   "keywords": "Switch",
   "repository":
