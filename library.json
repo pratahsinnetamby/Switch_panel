@@ -1,0 +1,27 @@
+{
+  "name": "Switch_panel",
+  "version": "1.0.0",
+  "description": "An Object to manage multiple mqtt switches",
+  "keywords": "Switch",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pratahsinnetamby/Switch_panel.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Astutia Business Consulting",
+      "email": "pratahsinnetamby@outlook.com.au",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.helloworld.org/",
+  "dependencies": {
+    "Switch":"https://github.com/pratahsinnetamby/Switch.git",
+    "MUX_TCA9539":"https://github.com/pratahsinnetamby/MUX_TCA9539.git"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
