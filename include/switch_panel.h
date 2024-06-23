@@ -1,6 +1,7 @@
 #ifndef _SWITCH_PANEL_H
 #define _SWITCH_PANEL_H
 
+#include <Arduino.h>
 #include <config.h>
 #include <MUX_TCA9539.h>
 #include <switch.h>
